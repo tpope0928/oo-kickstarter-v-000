@@ -1,6 +1,8 @@
 class Backer
   
-  attr_accessor :name, :backed_
+  attr_accessor :name, :backed_projects
+  
+  
   
   
   
