@@ -8,7 +8,8 @@ class Backer
   end
   
   def b_projects(project)
-    backed_projects << 
+    backed_projects << project
+    
   end
 
   
